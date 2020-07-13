@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravening&show_icons=true&hide_border=true)
 
+<!--
 <br>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ravening)
+-->
