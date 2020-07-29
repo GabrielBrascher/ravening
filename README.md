@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 -->
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ravening&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ravening&show_icons=true&hide_border=true&count_private=true&show_icons=true&layout=compact)
 
 
